@@ -1,5 +1,6 @@
 # Base64Transcode
-Base64文本和二进制编码解码工具
+Base64文本和二进制编码解码工具。
+7z格式压缩文件与加密文本文件相互转换，支持大文件分割。
 
 > I'm not crying for myself.
 
